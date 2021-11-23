@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Lucas Santiago!
 
 <div align="center">
-  <a href="https://github.com/lucassantiago08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassantiago08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantiago08&layout=compact&langs_count=7&theme=blue-green"/>
+  <a href="https://github.com/LucasSantiago08">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSantiago08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantiago08&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 <div style="display: inline_block"><br>
